@@ -20,7 +20,7 @@ In order to use play-json-refined you need to add the following lines to your `b
 ```scala
 resolvers += Resolver.bintrayRepo("beyondthelines", "maven")
 
-libraryDependencies += "beyondthelines" %% "play-json-refined" % "0.0.1"
+libraryDependencies += "beyondthelines" %% "play-json-refined" % "0.0.2"
 ```
 
 ## Dependencies
