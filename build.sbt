@@ -1,8 +1,10 @@
 scalaVersion := "2.12.3"
 
+crossScalaVersions := Seq("2.11.11", "2.12.3")
+
 name := "play-json-refined"
 
-version := "0.0.1"
+version := "0.0.2"
 
 organization := "beyondthelines"
 
